@@ -53,7 +53,7 @@
 }
 
 .intro {
-  background: url(/assets/photos/intro-photo.jpg) no-repeat;
+  background: url(assets/photos/intro-photo.jpg) no-repeat;
   background-size: cover;
   padding: 30px 30px;
   background-position: 50% 50%;
@@ -61,7 +61,7 @@
 }
 
 .intro--2 {
-  background: url(/assets/photos/intro-photo-3.jpg) no-repeat;
+  background: url(assets/photos/intro-photo-3.jpg) no-repeat;
   background-size: cover;
   padding: 30px 30px;
   background-position: 50% 50%;
